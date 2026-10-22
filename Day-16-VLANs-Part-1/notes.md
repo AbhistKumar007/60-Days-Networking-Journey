@@ -1,5 +1,5 @@
 
-# Day 16 — VLANs (Part 1) 
+# Day 16 — VLANs (Part 1) 🔢🌐
 
 ## 📌 Topic: Virtual Local Area Networks (VLANs)
 
