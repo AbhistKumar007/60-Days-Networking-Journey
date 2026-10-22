@@ -22,7 +22,7 @@ Today, I explored how multiple VLANs can communicate across switches and how rou
 - Understand Inter-VLAN Routing
 - Configure Router-on-a-Stick
 - Verify VLAN connectivity
-- Troubleshoot common VLAN issues.
+- Troubleshoot common VLAN issues
 
 ---
 
