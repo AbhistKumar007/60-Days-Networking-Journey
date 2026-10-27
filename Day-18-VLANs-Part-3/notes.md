@@ -110,7 +110,7 @@ PC2 → 192.168.20.1
 
 ## 5. Step 1 — Create VLANs on the Switch
 
-Open the switch CLI:
+Open the switch CLI:-
 
 ```cisco
 enable
